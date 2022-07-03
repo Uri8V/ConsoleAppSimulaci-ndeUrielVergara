@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSimulacióndeUrielVergara", "ConsoleAppSimulacióndeUrielVergara\ConsoleAppSimulacióndeUrielVergara.csproj", "{D7C9A534-D18D-435F-B189-535D6D7BEC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C9A534-D18D-435F-B189-535D6D7BEC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C9A534-D18D-435F-B189-535D6D7BEC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C9A534-D18D-435F-B189-535D6D7BEC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C9A534-D18D-435F-B189-535D6D7BEC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07C8C85C-7C41-4ED8-85E1-CA50DF455342}
+	EndGlobalSection
+EndGlobal
